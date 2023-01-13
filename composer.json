@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Alura\\Cursos\\": "src/"
+        }
+    },
+    "require": {
+        "doctrine/orm": "*",
+        "psr/http-message": "*",
+        "nyholm/psr7": "*",
+        "nyholm/psr7-server": "*",
+        "psr/http-server-handler": "*",
+        "php-di/php-di": "*"
+    }
+}
